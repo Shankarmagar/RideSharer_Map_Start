@@ -7,66 +7,66 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0F372373295C92A700A61CA3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F372372295C92A700A61CA3 /* AppDelegate.swift */; };
-		0F372375295C92A700A61CA3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F372374295C92A700A61CA3 /* SceneDelegate.swift */; };
-		0F372377295C92A700A61CA3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F372376295C92A700A61CA3 /* ViewController.swift */; };
-		0F37237A295C92A700A61CA3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F372378295C92A700A61CA3 /* Main.storyboard */; };
-		0F37237C295C92A700A61CA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F37237B295C92A700A61CA3 /* Assets.xcassets */; };
-		0F37237F295C92A700A61CA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F37237D295C92A700A61CA3 /* LaunchScreen.storyboard */; };
-		0F37238A295C92A800A61CA3 /* RideSharerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F372389295C92A800A61CA3 /* RideSharerTests.swift */; };
-		0F372394295C92A800A61CA3 /* RideSharerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F372393295C92A800A61CA3 /* RideSharerUITests.swift */; };
-		0F372396295C92A800A61CA3 /* RideSharerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F372395295C92A800A61CA3 /* RideSharerUITestsLaunchTests.swift */; };
+		0F872214295E043D00D6440C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F872213295E043D00D6440C /* AppDelegate.swift */; };
+		0F872216295E043D00D6440C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F872215295E043D00D6440C /* SceneDelegate.swift */; };
+		0F872218295E043D00D6440C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F872217295E043D00D6440C /* ViewController.swift */; };
+		0F87221B295E043D00D6440C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F872219295E043D00D6440C /* Main.storyboard */; };
+		0F87221D295E043D00D6440C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F87221C295E043D00D6440C /* Assets.xcassets */; };
+		0F872220295E043D00D6440C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F87221E295E043D00D6440C /* LaunchScreen.storyboard */; };
+		0F87222B295E043E00D6440C /* RideSharerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F87222A295E043E00D6440C /* RideSharerTests.swift */; };
+		0F872235295E043E00D6440C /* RideSharerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F872234295E043E00D6440C /* RideSharerUITests.swift */; };
+		0F872237295E043E00D6440C /* RideSharerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F872236295E043E00D6440C /* RideSharerUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0F372386295C92A800A61CA3 /* PBXContainerItemProxy */ = {
+		0F872227295E043E00D6440C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 0F372367295C92A700A61CA3 /* Project object */;
+			containerPortal = 0F872208295E043D00D6440C /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 0F37236E295C92A700A61CA3;
+			remoteGlobalIDString = 0F87220F295E043D00D6440C;
 			remoteInfo = RideSharer;
 		};
-		0F372390295C92A800A61CA3 /* PBXContainerItemProxy */ = {
+		0F872231295E043E00D6440C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 0F372367295C92A700A61CA3 /* Project object */;
+			containerPortal = 0F872208295E043D00D6440C /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 0F37236E295C92A700A61CA3;
+			remoteGlobalIDString = 0F87220F295E043D00D6440C;
 			remoteInfo = RideSharer;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0F37236F295C92A700A61CA3 /* RideSharer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RideSharer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0F372372295C92A700A61CA3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		0F372374295C92A700A61CA3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		0F372376295C92A700A61CA3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		0F372379295C92A700A61CA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		0F37237B295C92A700A61CA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		0F37237E295C92A700A61CA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		0F372380295C92A700A61CA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0F372385295C92A800A61CA3 /* RideSharerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RideSharerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		0F372389295C92A800A61CA3 /* RideSharerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideSharerTests.swift; sourceTree = "<group>"; };
-		0F37238F295C92A800A61CA3 /* RideSharerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RideSharerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		0F372393295C92A800A61CA3 /* RideSharerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideSharerUITests.swift; sourceTree = "<group>"; };
-		0F372395295C92A800A61CA3 /* RideSharerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideSharerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0F872210295E043D00D6440C /* RideSharer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RideSharer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F872213295E043D00D6440C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		0F872215295E043D00D6440C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		0F872217295E043D00D6440C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		0F87221A295E043D00D6440C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0F87221C295E043D00D6440C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0F87221F295E043D00D6440C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		0F872221295E043D00D6440C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0F872226295E043E00D6440C /* RideSharerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RideSharerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F87222A295E043E00D6440C /* RideSharerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideSharerTests.swift; sourceTree = "<group>"; };
+		0F872230295E043E00D6440C /* RideSharerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RideSharerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F872234295E043E00D6440C /* RideSharerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideSharerUITests.swift; sourceTree = "<group>"; };
+		0F872236295E043E00D6440C /* RideSharerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideSharerUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		0F37236C295C92A700A61CA3 /* Frameworks */ = {
+		0F87220D295E043D00D6440C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0F372382295C92A800A61CA3 /* Frameworks */ = {
+		0F872223295E043E00D6440C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0F37238C295C92A800A61CA3 /* Frameworks */ = {
+		0F87222D295E043E00D6440C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -76,53 +76,53 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0F372366295C92A700A61CA3 = {
+		0F872207295E043D00D6440C = {
 			isa = PBXGroup;
 			children = (
-				0F372371295C92A700A61CA3 /* RideSharer */,
-				0F372388295C92A800A61CA3 /* RideSharerTests */,
-				0F372392295C92A800A61CA3 /* RideSharerUITests */,
-				0F372370295C92A700A61CA3 /* Products */,
+				0F872212295E043D00D6440C /* RideSharer */,
+				0F872229295E043E00D6440C /* RideSharerTests */,
+				0F872233295E043E00D6440C /* RideSharerUITests */,
+				0F872211295E043D00D6440C /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		0F372370295C92A700A61CA3 /* Products */ = {
+		0F872211295E043D00D6440C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0F37236F295C92A700A61CA3 /* RideSharer.app */,
-				0F372385295C92A800A61CA3 /* RideSharerTests.xctest */,
-				0F37238F295C92A800A61CA3 /* RideSharerUITests.xctest */,
+				0F872210295E043D00D6440C /* RideSharer.app */,
+				0F872226295E043E00D6440C /* RideSharerTests.xctest */,
+				0F872230295E043E00D6440C /* RideSharerUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0F372371295C92A700A61CA3 /* RideSharer */ = {
+		0F872212295E043D00D6440C /* RideSharer */ = {
 			isa = PBXGroup;
 			children = (
-				0F372372295C92A700A61CA3 /* AppDelegate.swift */,
-				0F372374295C92A700A61CA3 /* SceneDelegate.swift */,
-				0F372376295C92A700A61CA3 /* ViewController.swift */,
-				0F372378295C92A700A61CA3 /* Main.storyboard */,
-				0F37237B295C92A700A61CA3 /* Assets.xcassets */,
-				0F37237D295C92A700A61CA3 /* LaunchScreen.storyboard */,
-				0F372380295C92A700A61CA3 /* Info.plist */,
+				0F872213295E043D00D6440C /* AppDelegate.swift */,
+				0F872215295E043D00D6440C /* SceneDelegate.swift */,
+				0F872217295E043D00D6440C /* ViewController.swift */,
+				0F872219295E043D00D6440C /* Main.storyboard */,
+				0F87221C295E043D00D6440C /* Assets.xcassets */,
+				0F87221E295E043D00D6440C /* LaunchScreen.storyboard */,
+				0F872221295E043D00D6440C /* Info.plist */,
 			);
 			path = RideSharer;
 			sourceTree = "<group>";
 		};
-		0F372388295C92A800A61CA3 /* RideSharerTests */ = {
+		0F872229295E043E00D6440C /* RideSharerTests */ = {
 			isa = PBXGroup;
 			children = (
-				0F372389295C92A800A61CA3 /* RideSharerTests.swift */,
+				0F87222A295E043E00D6440C /* RideSharerTests.swift */,
 			);
 			path = RideSharerTests;
 			sourceTree = "<group>";
 		};
-		0F372392295C92A800A61CA3 /* RideSharerUITests */ = {
+		0F872233295E043E00D6440C /* RideSharerUITests */ = {
 			isa = PBXGroup;
 			children = (
-				0F372393295C92A800A61CA3 /* RideSharerUITests.swift */,
-				0F372395295C92A800A61CA3 /* RideSharerUITestsLaunchTests.swift */,
+				0F872234295E043E00D6440C /* RideSharerUITests.swift */,
+				0F872236295E043E00D6440C /* RideSharerUITestsLaunchTests.swift */,
 			);
 			path = RideSharerUITests;
 			sourceTree = "<group>";
@@ -130,13 +130,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0F37236E295C92A700A61CA3 /* RideSharer */ = {
+		0F87220F295E043D00D6440C /* RideSharer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0F372399295C92A800A61CA3 /* Build configuration list for PBXNativeTarget "RideSharer" */;
+			buildConfigurationList = 0F87223A295E043E00D6440C /* Build configuration list for PBXNativeTarget "RideSharer" */;
 			buildPhases = (
-				0F37236B295C92A700A61CA3 /* Sources */,
-				0F37236C295C92A700A61CA3 /* Frameworks */,
-				0F37236D295C92A700A61CA3 /* Resources */,
+				0F87220C295E043D00D6440C /* Sources */,
+				0F87220D295E043D00D6440C /* Frameworks */,
+				0F87220E295E043D00D6440C /* Resources */,
 			);
 			buildRules = (
 			);
@@ -144,69 +144,69 @@
 			);
 			name = RideSharer;
 			productName = RideSharer;
-			productReference = 0F37236F295C92A700A61CA3 /* RideSharer.app */;
+			productReference = 0F872210295E043D00D6440C /* RideSharer.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0F372384295C92A800A61CA3 /* RideSharerTests */ = {
+		0F872225295E043E00D6440C /* RideSharerTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0F37239C295C92A800A61CA3 /* Build configuration list for PBXNativeTarget "RideSharerTests" */;
+			buildConfigurationList = 0F87223D295E043E00D6440C /* Build configuration list for PBXNativeTarget "RideSharerTests" */;
 			buildPhases = (
-				0F372381295C92A800A61CA3 /* Sources */,
-				0F372382295C92A800A61CA3 /* Frameworks */,
-				0F372383295C92A800A61CA3 /* Resources */,
+				0F872222295E043E00D6440C /* Sources */,
+				0F872223295E043E00D6440C /* Frameworks */,
+				0F872224295E043E00D6440C /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				0F372387295C92A800A61CA3 /* PBXTargetDependency */,
+				0F872228295E043E00D6440C /* PBXTargetDependency */,
 			);
 			name = RideSharerTests;
 			productName = RideSharerTests;
-			productReference = 0F372385295C92A800A61CA3 /* RideSharerTests.xctest */;
+			productReference = 0F872226295E043E00D6440C /* RideSharerTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		0F37238E295C92A800A61CA3 /* RideSharerUITests */ = {
+		0F87222F295E043E00D6440C /* RideSharerUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0F37239F295C92A800A61CA3 /* Build configuration list for PBXNativeTarget "RideSharerUITests" */;
+			buildConfigurationList = 0F872240295E043E00D6440C /* Build configuration list for PBXNativeTarget "RideSharerUITests" */;
 			buildPhases = (
-				0F37238B295C92A800A61CA3 /* Sources */,
-				0F37238C295C92A800A61CA3 /* Frameworks */,
-				0F37238D295C92A800A61CA3 /* Resources */,
+				0F87222C295E043E00D6440C /* Sources */,
+				0F87222D295E043E00D6440C /* Frameworks */,
+				0F87222E295E043E00D6440C /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				0F372391295C92A800A61CA3 /* PBXTargetDependency */,
+				0F872232295E043E00D6440C /* PBXTargetDependency */,
 			);
 			name = RideSharerUITests;
 			productName = RideSharerUITests;
-			productReference = 0F37238F295C92A800A61CA3 /* RideSharerUITests.xctest */;
+			productReference = 0F872230295E043E00D6440C /* RideSharerUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		0F372367295C92A700A61CA3 /* Project object */ = {
+		0F872208295E043D00D6440C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
-					0F37236E295C92A700A61CA3 = {
+					0F87220F295E043D00D6440C = {
 						CreatedOnToolsVersion = 14.2;
 					};
-					0F372384295C92A800A61CA3 = {
+					0F872225295E043E00D6440C = {
 						CreatedOnToolsVersion = 14.2;
-						TestTargetID = 0F37236E295C92A700A61CA3;
+						TestTargetID = 0F87220F295E043D00D6440C;
 					};
-					0F37238E295C92A800A61CA3 = {
+					0F87222F295E043E00D6440C = {
 						CreatedOnToolsVersion = 14.2;
-						TestTargetID = 0F37236E295C92A700A61CA3;
+						TestTargetID = 0F87220F295E043D00D6440C;
 					};
 				};
 			};
-			buildConfigurationList = 0F37236A295C92A700A61CA3 /* Build configuration list for PBXProject "RideSharer" */;
+			buildConfigurationList = 0F87220B295E043D00D6440C /* Build configuration list for PBXProject "RideSharer" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -214,37 +214,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 0F372366295C92A700A61CA3;
-			productRefGroup = 0F372370295C92A700A61CA3 /* Products */;
+			mainGroup = 0F872207295E043D00D6440C;
+			productRefGroup = 0F872211295E043D00D6440C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0F37236E295C92A700A61CA3 /* RideSharer */,
-				0F372384295C92A800A61CA3 /* RideSharerTests */,
-				0F37238E295C92A800A61CA3 /* RideSharerUITests */,
+				0F87220F295E043D00D6440C /* RideSharer */,
+				0F872225295E043E00D6440C /* RideSharerTests */,
+				0F87222F295E043E00D6440C /* RideSharerUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		0F37236D295C92A700A61CA3 /* Resources */ = {
+		0F87220E295E043D00D6440C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0F37237F295C92A700A61CA3 /* LaunchScreen.storyboard in Resources */,
-				0F37237C295C92A700A61CA3 /* Assets.xcassets in Resources */,
-				0F37237A295C92A700A61CA3 /* Main.storyboard in Resources */,
+				0F872220295E043D00D6440C /* LaunchScreen.storyboard in Resources */,
+				0F87221D295E043D00D6440C /* Assets.xcassets in Resources */,
+				0F87221B295E043D00D6440C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0F372383295C92A800A61CA3 /* Resources */ = {
+		0F872224295E043E00D6440C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0F37238D295C92A800A61CA3 /* Resources */ = {
+		0F87222E295E043E00D6440C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -254,61 +254,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		0F37236B295C92A700A61CA3 /* Sources */ = {
+		0F87220C295E043D00D6440C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0F372377295C92A700A61CA3 /* ViewController.swift in Sources */,
-				0F372373295C92A700A61CA3 /* AppDelegate.swift in Sources */,
-				0F372375295C92A700A61CA3 /* SceneDelegate.swift in Sources */,
+				0F872218295E043D00D6440C /* ViewController.swift in Sources */,
+				0F872214295E043D00D6440C /* AppDelegate.swift in Sources */,
+				0F872216295E043D00D6440C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0F372381295C92A800A61CA3 /* Sources */ = {
+		0F872222295E043E00D6440C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0F37238A295C92A800A61CA3 /* RideSharerTests.swift in Sources */,
+				0F87222B295E043E00D6440C /* RideSharerTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0F37238B295C92A800A61CA3 /* Sources */ = {
+		0F87222C295E043E00D6440C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0F372394295C92A800A61CA3 /* RideSharerUITests.swift in Sources */,
-				0F372396295C92A800A61CA3 /* RideSharerUITestsLaunchTests.swift in Sources */,
+				0F872235295E043E00D6440C /* RideSharerUITests.swift in Sources */,
+				0F872237295E043E00D6440C /* RideSharerUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		0F372387295C92A800A61CA3 /* PBXTargetDependency */ = {
+		0F872228295E043E00D6440C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0F37236E295C92A700A61CA3 /* RideSharer */;
-			targetProxy = 0F372386295C92A800A61CA3 /* PBXContainerItemProxy */;
+			target = 0F87220F295E043D00D6440C /* RideSharer */;
+			targetProxy = 0F872227295E043E00D6440C /* PBXContainerItemProxy */;
 		};
-		0F372391295C92A800A61CA3 /* PBXTargetDependency */ = {
+		0F872232295E043E00D6440C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0F37236E295C92A700A61CA3 /* RideSharer */;
-			targetProxy = 0F372390295C92A800A61CA3 /* PBXContainerItemProxy */;
+			target = 0F87220F295E043D00D6440C /* RideSharer */;
+			targetProxy = 0F872231295E043E00D6440C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		0F372378295C92A700A61CA3 /* Main.storyboard */ = {
+		0F872219295E043D00D6440C /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				0F372379295C92A700A61CA3 /* Base */,
+				0F87221A295E043D00D6440C /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		0F37237D295C92A700A61CA3 /* LaunchScreen.storyboard */ = {
+		0F87221E295E043D00D6440C /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				0F37237E295C92A700A61CA3 /* Base */,
+				0F87221F295E043D00D6440C /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -316,7 +316,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		0F372397295C92A800A61CA3 /* Debug */ = {
+		0F872238295E043E00D6440C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -376,7 +376,7 @@
 			};
 			name = Debug;
 		};
-		0F372398295C92A800A61CA3 /* Release */ = {
+		0F872239295E043E00D6440C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -430,7 +430,7 @@
 			};
 			name = Release;
 		};
-		0F37239A295C92A800A61CA3 /* Debug */ = {
+		0F87223B295E043E00D6440C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -458,7 +458,7 @@
 			};
 			name = Debug;
 		};
-		0F37239B295C92A800A61CA3 /* Release */ = {
+		0F87223C295E043E00D6440C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -486,7 +486,7 @@
 			};
 			name = Release;
 		};
-		0F37239D295C92A800A61CA3 /* Debug */ = {
+		0F87223E295E043E00D6440C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -506,7 +506,7 @@
 			};
 			name = Debug;
 		};
-		0F37239E295C92A800A61CA3 /* Release */ = {
+		0F87223F295E043E00D6440C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -526,7 +526,7 @@
 			};
 			name = Release;
 		};
-		0F3723A0295C92A800A61CA3 /* Debug */ = {
+		0F872241295E043E00D6440C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -544,7 +544,7 @@
 			};
 			name = Debug;
 		};
-		0F3723A1295C92A800A61CA3 /* Release */ = {
+		0F872242295E043E00D6440C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -565,43 +565,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0F37236A295C92A700A61CA3 /* Build configuration list for PBXProject "RideSharer" */ = {
+		0F87220B295E043D00D6440C /* Build configuration list for PBXProject "RideSharer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0F372397295C92A800A61CA3 /* Debug */,
-				0F372398295C92A800A61CA3 /* Release */,
+				0F872238295E043E00D6440C /* Debug */,
+				0F872239295E043E00D6440C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0F372399295C92A800A61CA3 /* Build configuration list for PBXNativeTarget "RideSharer" */ = {
+		0F87223A295E043E00D6440C /* Build configuration list for PBXNativeTarget "RideSharer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0F37239A295C92A800A61CA3 /* Debug */,
-				0F37239B295C92A800A61CA3 /* Release */,
+				0F87223B295E043E00D6440C /* Debug */,
+				0F87223C295E043E00D6440C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0F37239C295C92A800A61CA3 /* Build configuration list for PBXNativeTarget "RideSharerTests" */ = {
+		0F87223D295E043E00D6440C /* Build configuration list for PBXNativeTarget "RideSharerTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0F37239D295C92A800A61CA3 /* Debug */,
-				0F37239E295C92A800A61CA3 /* Release */,
+				0F87223E295E043E00D6440C /* Debug */,
+				0F87223F295E043E00D6440C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0F37239F295C92A800A61CA3 /* Build configuration list for PBXNativeTarget "RideSharerUITests" */ = {
+		0F872240295E043E00D6440C /* Build configuration list for PBXNativeTarget "RideSharerUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0F3723A0295C92A800A61CA3 /* Debug */,
-				0F3723A1295C92A800A61CA3 /* Release */,
+				0F872241295E043E00D6440C /* Debug */,
+				0F872242295E043E00D6440C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 0F372367295C92A700A61CA3 /* Project object */;
+	rootObject = 0F872208295E043D00D6440C /* Project object */;
 }
